@@ -1,1 +1,3 @@
-<div class="tenor-gif-embed" data-postid="1121862974331027339" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/cipher-hsr-mydei-mydei-hsr-aglaea-aglaea-hsr-gif-1121862974331027339">Cipher Hsr Mydei GIF</a>from <a href="https://tenor.com/search/cipher+hsr-gifs">Cipher Hsr GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div id="header" align="center">
+  <img src=https://tenor.com/dhErIqEVhtO.gif width="100"/>
+</div>
